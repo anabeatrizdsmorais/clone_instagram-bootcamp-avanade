@@ -1,4 +1,4 @@
-# Clone Instagram - Bootcamp Avanade Angular Developer - Digital Innovation One
+## Clone Instagram - Bootcamp Avanade Angular Developer - Digital Innovation One
 
 <h2>💡 Descrição</h2>
 <p>Prejeto de desenvolvimento feito durante o Bootcamp Avanade Angular Developer. Clone da tela de login do Instagram.</p>
